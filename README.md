@@ -6,11 +6,23 @@
 
 <p align="left"> <a href="https://twitter.com/horlams__" target="blank"><img src="https://img.shields.io/twitter/follow/horlams__?logo=twitter&style=for-the-badge" alt="horlams__" /></a> </p>
 
-- 💬 Ask me about **React**
+<img align="right" width="400" src="[https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47adq3efjpt3l1n6cdlek9aafb51z9qtpn2jq69uur&rid=giphy.gif&ct=g](https://www.behance.net/gallery/161921919/Portrait-animated-gif?tracking_source=search_projects%7Canimated+portrait)" alt="Coding">
+
+- 🔭 I’m currently working on **Build My porfolio**
+
+- 🌱 I’m currently learning **React. js**
+
+- 👯 I’m looking to collaborate on **building, & learning on Web App.**
+
+- 🤝 I’m looking for help with **Jobs & Intership programs**
+
+- 💬 Ask me about **react & javascript.**
 
 - 📫 How to reach me **olasupoolamide00@gmail.com**
 
-- ⚡ Fun fact **I'm fun to be with**
+- ⚡ Fun fact **I'm fun to be with & passionate about learning.**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
