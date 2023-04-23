@@ -3,6 +3,8 @@
 <br>
 <h3 align="center">A passionate frontend developer.</h3>
 
+<br>
+
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horlams" alt="horlams" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/horlams__" target="blank"><img src="https://img.shields.io/twitter/follow/horlams__?logo=twitter&style=for-the-badge" alt="horlams__" /></a> </p>
