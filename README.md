@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋, I'm Olamide Olasupo</h1>
 <h3 align="center">A passionate frontend developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horlams" alt="horlams" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horlams" alt="horlams" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/horlams__" target="blank"><img src="https://img.shields.io/twitter/follow/horlams__?logo=twitter&style=for-the-badge" alt="horlams__" /></a> </p>
+<p align="center"> <a href="https://twitter.com/horlams__" target="blank"><img src="https://img.shields.io/twitter/follow/horlams__?logo=twitter&style=for-the-badge" alt="horlams__" /></a> </p>
 
 <img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47adq3efjpt3l1n6cdlek9aafb51z9qtpn2jq69uur&rid=giphy.gif&ct=g" alt="Coding">
 
