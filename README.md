@@ -1,6 +1,6 @@
 ![technology-binary-number-programming-wallpaper-1600x480_68](https://user-images.githubusercontent.com/88621342/202923774-e8529a32-8047-4fad-98e0-71b550230481.jpg)
 <h1 align="center">Hi 👋, I'm Olamide Olasupo</h1>
-<br>
+
 <h3 align="center">A passionate frontend developer.</h3>
 
 <br>
