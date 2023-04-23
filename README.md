@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/horlams__" target="blank"><img src="https://img.shields.io/twitter/follow/horlams__?logo=twitter&style=for-the-badge" alt="horlams__" /></a> </p>
 
-<img align="right" width="400" src="https://www.behance.net/gallery/161921919/Portrait-animated-gif/modules/913447149" alt="Coding">
+<img align="right" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47adq3efjpt3l1n6cdlek9aafb51z9qtpn2jq69uur&rid=giphy.gif&ct=g" alt="Coding">
 
 - 🔭 I’m currently working on **Build My porfolio**
 
