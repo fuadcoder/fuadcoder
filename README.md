@@ -5,9 +5,9 @@
 
 <br>
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=horlams" alt="horlams" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fuadcoder" alt="fuadcoder" /></a> </p>
 
-<p align="center"> <a href="https://twitter.com/horlams__" target="blank"><img src="https://img.shields.io/twitter/follow/horlams__?logo=twitter&style=for-the-badge" alt="horlams__" /></a> </p>
+<p align="center"> <a href="https://twitter.com/fuad_coder" target="blank"><img src="https://img.shields.io/twitter/follow/fuad_coder?logo=twitter&style=for-the-badge" alt="fuadcoder" /></a> </p>
 
 <br>
 
@@ -31,7 +31,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/horlams__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="horlams__" height="30" width="40" /></a>
+<a href="https://twitter.com/fuad_coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fuad_coder" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/olamide-olasupo-87b868228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/olamide-olasupo-87b868228/" height="30" width="40" /></a>
 <a href="https://instagram.com/hor_lami_dhey_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hor_lami_dhey_" height="30" width="40" /></a>
 </p>
@@ -45,10 +45,10 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=horlams&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="horlams" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=fuadcoder&layout=compact&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="fuadcoder" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=horlams&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="horlams" />
+<img src="https://github-readme-stats.vercel.app/api?username=fuadcoder&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&include_all_commits=true&count_private=true" alt="fuadcoder" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=horlams&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=fuadcoder&border=D3D3D3&sideNums=7A7ADB&background=130F40&stroke=6842DB&currStreakNum=7A7ADB&ring=5B3CDD&fire=D3D351&currStreakLabel=D3D3D3&sideLabels=D3D3D3&dates=A3A3A3" />
   
  </div>
